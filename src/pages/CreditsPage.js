@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 const CreditsPage = () => {
   
-  const githubRepoUrl = "https://github.khoury.northeastern.edu/xiewen2/cs-5610";
+  const githubRepoUrl = "https://github.com/XieWen2000/CS5610";
 
   return (
     <div style={{ textAlign: 'center', marginTop: '20px' }}>
